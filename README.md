@@ -5,3 +5,5 @@ To run the jar file type:
 java "your JavaFX path/lib" --add-modules javafx.controls,javafx.fxml -jar Battleship.jar
 
 e.g. java --module-path "C:\Users\swaro\Documents\programming\Java\javafx-sdk-19.0.2.1\lib" --add-modules javafx.controls,javafx.fxml -jar Battleship.jar
+
+Classic mode is not implemented yet
