@@ -7,3 +7,5 @@ java "your JavaFX path/lib" --add-modules javafx.controls,javafx.fxml -jar Battl
 e.g. java --module-path "C:\Users\swaro\Documents\programming\Java\javafx-sdk-19.0.2.1\lib" --add-modules javafx.controls,javafx.fxml -jar Battleship.jar
 
 Classic mode is not implemented yet
+
+If it does not work then please contact me by email: kumaracharjee@outlook.com
