@@ -4,8 +4,7 @@ Battleship game made using JavaFX so make sure you installed the latest JavaFX S
 To run the jar file type:
 java "your JavaFX path/lib" --add-modules javafx.controls,javafx.fxml -jar Battleship.jar
 
-e.g. java --module-path "C:\Users\swaro\Documents\programming\Java\javafx-sdk-19.0.2.1\lib" --add-modules javafx.controls,javafx.fxml -jar Battleship.jar
+e.g. java --module-path "C:\Users\<username>\Documents\programming\Java\javafx-sdk-19.0.2.1\lib" --add-modules javafx.controls,javafx.fxml -jar Battleship.jar
 
-Classic mode is not implemented yet
+Classic mode has not implemented yet
 
-If it does not work then please contact me by email: kumaracharjee@outlook.com
